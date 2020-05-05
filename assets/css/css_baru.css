@@ -1,0 +1,96 @@
+.form-login h2.form-login-heading {
+    background: #4b874b;
+}
+
+.black-bg {
+    background:   #228B22;
+    border-bottom: 1px solid  #228B22;
+}
+ul.top-menu > li > .logout {
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 4px;
+    -webkit-border-radius: 5px;
+    border: 0.5px solid #f1fbfb !important;
+    padding: 5px 13px;
+    margin-right: 1px;
+    background: #1a2015;
+    margin-top: 15px;
+}
+ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
+    border: 1px solid #b6b6b6 !important;
+    background-color: #5cb85c !important;
+    border-color: #5cb85c !important;
+    text-decoration: none;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    color: #fff !important;
+    transition: all 0.3s ease;
+}
+
+
+body 
+{
+    color: #000000;
+}
+ul.sidebar-menu li a.active, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
+    background: #5cb85c;
+    color: #fff;
+    display: block;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/*belum terbaca*/
+.row .menuhome a.btn{
+      background: #5cb85c;
+      border: solid 0.5px #5cb85c; 
+    }
+    .row .menuhome a:hover{
+     background: transparent;
+     color: #5cb85c;
+     border: solid 0.5px #5cb85c;
+     -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    }
+    .row .tabmenu a.btn{
+      color: black;
+      border: solid 1px #5cb85c;
+       border-radius: 10px;
+      text-align: left
+    }
+    .row .tabmenu a:hover{
+      background: #5cb85c;
+      color: white;
+      border: solid 1px #5cb85c;
+      text-align: left;
+      transition: all 0.5s ease;
+    }
+    .row .menuhome button:hover{
+       background: transparent;
+       color: #5cb85c;
+       border: solid 1px #5cb85c;
+      transition: all 0.3s ease;
+    }
+
+.site-footer {
+    background: #228b22;
+    color: #fff;
+    padding: 10px 0;
+}
+  .tambah a:hover{
+    background: transparent;
+    border: 1px solid #5cb85c;
+    color: #5cb85c;
+    transition: all 0.3s ease;
+  }
+/*UNTUK PESAN KIRIM DATA*/
+.pesan{
+  display: none;
+ }
